@@ -19,6 +19,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"firebase": "^9.10.0"
+		"firebase": "^9.10.0",
+		"html2canvas": "^1.4.1"
 	}
 }
